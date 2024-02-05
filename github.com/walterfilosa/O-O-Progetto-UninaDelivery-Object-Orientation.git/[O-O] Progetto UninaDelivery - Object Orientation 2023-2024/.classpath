@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Icons"/>
 	<classpathentry kind="lib" path="C:/Users/walte/.p2/pool/plugins/org.eclipse.osgi_3.18.500.v20230801-1826.jar" sourcepath="C:/Users/walte/.p2/pool/plugins/org.eclipse.osgi_3.18.500.v20230801-1826.jar"/>
 	<classpathentry kind="lib" path="C:/Users/walte/.p2/pool/plugins/org.eclipse.core.commands_3.11.100.v20230708-0916.jar" sourcepath="C:/Users/walte/.p2/pool/plugins/org.eclipse.core.commands_3.11.100.v20230708-0916.jar"/>
 	<classpathentry kind="lib" path="C:/Users/walte/.p2/pool/plugins/org.eclipse.equinox.common_3.18.100.v20230730-1117.jar" sourcepath="C:/Users/walte/.p2/pool/plugins/org.eclipse.equinox.common_3.18.100.v20230730-1117.jar"/>
