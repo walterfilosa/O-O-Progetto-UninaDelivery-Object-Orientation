@@ -54,11 +54,6 @@ public class LoginUtente extends JFrame {
 	
 	public LoginUtente(GestoreApplicazione ga) {
 		setTitle("UninaDelivery");
-		
-		String imgPath = "res" + File.separator;
-		ImageIcon image = new ImageIcon(imgPath + "Logo.png");
-
-		
 		setResizable(false);
 		myGestore = ga;
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -202,7 +197,7 @@ public class LoginUtente extends JFrame {
 		getContentPane().add(lblEmail);
 		
 		Logo = new JLabel("");
-		Logo.setIcon(image);
+		Logo.setIcon(new ImageIcon("Icons/Logo.png"));
 		Logo.setBounds(151, 24, 161, 70);
 		getContentPane().add(Logo);
 		
